@@ -21,7 +21,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ionic-team/ionic-framework.git"
+    "url": "git+https://github.com/gzqby/ionic-vue-router"
   },
   "keywords": [
     "ionic",

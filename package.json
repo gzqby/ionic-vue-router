@@ -1,6 +1,6 @@
 {
   "name": "ionic-vue-router",
-  "version": "8.2.7",
+  "version": "8.2.8",
   "description": "@ionic/vue-router for web",
   "scripts": {
     "test.spec": "jest",
@@ -37,8 +37,8 @@
     "url": "https://github.com/gzqby/ionic-vue-router"
   },
   "homepage": "https://github.com/gzqby/ionic-vue-router#readme",
-  "dependencies": {
-    "@ionic/vue": "^8.2.6"
+  "peerDependencies": {
+    "@ionic/vue": "*"
   },
   "devDependencies": {
     "@ionic/eslint-config": "^0.3.0",
